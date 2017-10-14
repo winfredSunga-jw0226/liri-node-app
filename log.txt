@@ -1,0 +1,57 @@
+
+node liri.js movie-this "The Exorcist"
+###########################################################################################################
+node liri.js do-what-it-says 
+
+Movie Title : The ExorcistRelease Year : 1973IMDB Rating : 8.0/10Rotten Tomatoes Rating : 86%Country : USALanguage : English, Latin, Greek, French, German, Arabic, KurdishPlot : When a girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.Actors : Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn###########################################################################################################
+node liri.js movie-this the godfather
+
+Movie Title : The GodfatherRelease Year : 1972IMDB Rating : 9.2/10Rotten Tomatoes Rating : 99%Country : USALanguage : English, Italian, LatinPlot : The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.Actors : Marlon Brando, Al Pacino, James Caan, Richard S. Castellano###########################################################################################################
+node liri.js movie-this the godfather
+
+Movie Title : The Godfather
+Release Year : 1972
+IMDB Rating : 9.2/10
+Rotten Tomatoes Rating : 99%
+Country : USA
+Language : English, Italian, Latin
+Plot : The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+Actors : Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+###########################################################################################################
+node liri.js movie-this "The Exorcist"
+###########################################################################################################
+node liri.js do-what-it-says 
+
+Movie Title : The Exorcist
+Release Year : 1973
+IMDB Rating : 8.0/10
+Rotten Tomatoes Rating : 86%
+Country : USA
+Language : English, Latin, Greek, French, German, Arabic, Kurdish
+Plot : When a girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.
+Actors : Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn
+###########################################################################################################
+
+node liri.js movie-this "The Exorcist"
+node liri.js do-what-it-says 
+
+Movie Title : The Exorcist
+Release Year : 1973
+IMDB Rating : 8.0/10
+Rotten Tomatoes Rating : 86%
+Country : USA
+Language : English, Latin, Greek, French, German, Arabic, Kurdish
+Plot : When a girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.
+Actors : Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn
+###########################################################################################################
+node liri.js do-what-it-says 
+
+Movie Title : The Exorcist
+Release Year : 1973
+IMDB Rating : 8.0/10
+Rotten Tomatoes Rating : 86%
+Country : USA
+Language : English, Latin, Greek, French, German, Arabic, Kurdish
+Plot : When a girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.
+Actors : Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn
+###########################################################################################################
