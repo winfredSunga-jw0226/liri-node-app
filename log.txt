@@ -124,3 +124,371 @@ Created At : Sun Oct 15 00:53:24 +0000 2017
 Tweet # 20 : RT @DemResistance: @realDonaldTrump has not spoken their names, nor did he travel to meet them at Dover. #Disrespect #Honor #Valor https://…
 Created At : Sun Oct 15 00:53:23 +0000 2017
 ##############################################################################################################
+node liri.js my-tweets
+
+Tweet # 1 : RT @FoxNews: TONIGHT on "Justice," @JudgeJeanine talks to special guests @EricTrump and @LaraLeaTrump - Tune in at 9p ET on Fox News Channe…
+Created At : Sat Oct 14 23:22:04 +0000 2017
+##############################################################################################################
+Tweet # 2 : RT @EricTrump: .@LaraLeaTrump and I look forward to being on @JudgeJeanine tonight at 9pm! @FoxNews #MakeAmericaGreatAgain 🇺🇸🇺🇸🇺🇸 https://t…
+Created At : Sat Oct 14 21:29:38 +0000 2017
+##############################################################################################################
+Tweet # 3 : RT @mike_pence: We are heading to Virginia. Looking forward to supporting my friend @EdWGillespie. He will make a great Governor for the Co…
+Created At : Sat Oct 14 21:28:34 +0000 2017
+##############################################################################################################
+Tweet # 4 : The Democrats in the Southwest part of Virginia have been abandoned by their Party. Republican Ed Gillespie will never let you down!
+Created At : Sat Oct 14 21:27:22 +0000 2017
+##############################################################################################################
+Tweet # 5 : Very proud of my Executive Order which will allow greatly expanded access and far lower costs for HealthCare. Millions of people benefit!
+Created At : Sat Oct 14 11:27:00 +0000 2017
+##############################################################################################################
+Tweet # 6 : Health Insurance stocks, which have gone through the roof during the ObamaCare years, plunged yesterday after I ended their Dems windfall!
+Created At : Sat Oct 14 11:18:49 +0000 2017
+##############################################################################################################
+Tweet # 7 : RT @realDonaldTrump: "Consumer confidence soars to highest level since 2004"
+📈https://t.co/RvxCPAFI2A https://t.co/U8MS9K45fX
+Created At : Sat Oct 14 11:12:16 +0000 2017
+##############################################################################################################
+Tweet # 8 : RT @RightlyNews: @realDonaldTrump @LouDobbs Trust in the media is at the lowest level in all of U.S. history. The American people see throu…
+Created At : Sat Oct 14 11:08:32 +0000 2017
+##############################################################################################################
+Tweet # 9 : RT @RightlyNews: @realDonaldTrump @LouDobbs It is NOT a coincidence that the economy boomed immediately after the 2016 election.
+##############################################################################################################Created At : Sat Oct 14 11:08:00 +0000 2017
+
+Tweet # 10 : Such a wonderful statement from the great @LouDobbs. "We take up what may be the most accomplished presidency in modern American history."
+Created At : Sat Oct 14 01:31:20 +0000 2017
+##############################################################################################################
+Tweet # 11 : ObamaCare is causing such grief and tragedy for so many. It is being dismantled but in the meantime, premiums &amp; deductibles are way up!
+Created At : Sat Oct 14 01:17:54 +0000 2017
+
+##############################################################################################################Tweet # 12 : Money pouring into Insurance Companies profits, under the guise of ObamaCare, is over. They have made a fortune.
+Dems must get smart &amp; deal!
+Created At : Sat Oct 14 01:10:55 +0000 2017
+##############################################################################################################
+Tweet # 13 : Many people talking, with much agreement, on my Iran speech today. Participants in the deal are making lots of money on trade with Iran!
+Created At : Sat Oct 14 01:02:48 +0000 2017
+##############################################################################################################
+Tweet # 14 : Starting to develop a much better relationship with Pakistan and its leaders. I want to thank them for their cooperation on many fronts.
+Created At : Sat Oct 14 00:53:59 +0000 2017
+##############################################################################################################
+Tweet # 15 : #WeeklyAddress🇺🇸 https://t.co/riqEiBNwk2
+Created At : Fri Oct 13 22:01:57 +0000 2017
+##############################################################################################################
+Tweet # 16 : Today, I announced our strategy to confront the Iranian regime’s hostile actions and to ensure that they never acqu… https://t.co/nKOKERavGW
+Created At : Fri Oct 13 18:09:00 +0000 2017
+##############################################################################################################
+Tweet # 17 : "Consumer confidence soars to highest level since 2004"
+📈https://t.co/RvxCPAFI2A https://t.co/U8MS9K45fX
+Created At : Fri Oct 13 17:41:36 +0000 2017
+
+##############################################################################################################Tweet # 18 : In America, we don't worship government - we worship God. 
+#ValuesVotersSummit https://t.co/YQ3iDlWylK
+Created At : Fri Oct 13 17:07:15 +0000 2017
+##############################################################################################################
+Tweet # 19 : I have no greater privilege than to serve as your Commander-in-Chief. HAPPY BIRTHDAY to the incredible men and wome… https://t.co/cxkez6oPXx
+Created At : Fri Oct 13 16:30:28 +0000 2017
+##############################################################################################################
+Tweet # 20 : The wonderful people of Puerto Rico, with their unmatched spirit, know how bad things were before the H's. I will always be with them!
+Created At : Fri Oct 13 12:01:02 +0000 2017
+##############################################################################################################
+node liri.js spotify-this-song
+
+Song # : 1
+Artist : Ace of Base
+Song Title : The Sign
+PreviewLink : https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Sign (US Album) [Remastered]
+#######################################################################################################
+Song # : 2
+Artist : Ace of Base
+Song Title : The Sign
+PreviewLink : https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : Greatest Hits
+#######################################################################################################
+Song # : 3
+Artist : Ace of Base
+Song Title : The Sign
+PreviewLink : https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : Happy Nation (U.S. Version) [Remastered]
+#######################################################################################################
+Song # : 4
+Artist : Ace of Base
+PreviewLink : https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Song Title : The Sign
+Album Name : The Sign (The Remixes)
+#######################################################################################################
+Song # : 5
+Artist : Ace of Base
+Song Title : The Sign
+PreviewLink : https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Sign (The Remixes)
+#######################################################################################################
+Song # : 6
+Artist : Ace of Base
+Song Title : The Sign - Long Version
+PreviewLink : https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Sign (The Remixes)
+#######################################################################################################
+Song # : 7
+Artist : Ace of Base
+Song Title : The Sign - Ultimix
+PreviewLink : https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Sign (The Remixes)
+#######################################################################################################
+Song # : 8
+Artist : Ace of Base
+Song Title : The Sign - The Remix
+PreviewLink : https://p.scdn.co/mp3-preview/919c1e7e785733af13db8054540742ac6aede514?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : Classic Remixes
+#######################################################################################################
+Song # : 9
+Artist : Ace of Base
+Song Title : The Sign - The Remix
+PreviewLink : https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Sign (The Remixes)
+#######################################################################################################
+Song # : 10
+Artist : Ace of Base
+Song Title : The Sign - The Remix
+PreviewLink : https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Sign (The Remixes)
+#######################################################################################################
+Song # : 11
+Artist : Ace of Base
+Song Title : The Sign - Ultimix
+PreviewLink : https://p.scdn.co/mp3-preview/09e61a41305b12e2832c9cbea2010cbaaa788831?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Sign (The Remixes)
+#######################################################################################################
+Song # : 12
+Artist : Ace of Base
+Song Title : The Sign - Long Version
+PreviewLink : https://p.scdn.co/mp3-preview/0f314a0cc1fbb59cd6934437bef37eb14b738480?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Sign (The Remixes)
+#######################################################################################################
+Song # : 13
+Artist : Ace of Base
+Song Title : The Sign - Dub Version
+PreviewLink : https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Sign (The Remixes)
+#######################################################################################################
+Song # : 14
+Artist : Ace of Base
+Song Title : The Sign - Dub Version
+PreviewLink : https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Sign (The Remixes)
+#######################################################################################################
+Song # : 15
+Artist : Ace Of Base Tribute
+Song Title : The Sign
+PreviewLink : https://p.scdn.co/mp3-preview/4f5c0e369e693cbba5b36ada75078dde4d32d9b9?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : A Salute To Ace Of Base
+#######################################################################################################
+node liri.js spotify-this-song love hurts
+
+Song # :1
+Artist : Nazareth
+Song Title : Love Hurts
+PreviewLink : null
+Album Name : Hair Of The Dog
+###########################################################################################################Song # :2
+
+Artist : Incubus
+Song Title : Love Hurts
+PreviewLink : https://p.scdn.co/mp3-preview/fc205ea35abfc42001436c31967db0e5083ae683?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : Light Grenades
+###########################################################################################################
+Song # :3
+Artist : JoJo
+Song Title : When Love Hurts
+PreviewLink : https://p.scdn.co/mp3-preview/966ecb4cddde5aa32c254ef231d55199c268cc14?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : III.
+###########################################################################################################
+Song # :4
+Artist : Fleurie
+Song Title : Hurts Like Hell
+PreviewLink : https://p.scdn.co/mp3-preview/260a7c8da450136e26efd0eb8d4616e952e200d4?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : Love and War
+###########################################################################################################
+Song # :5
+Artist : Billy Ocean
+Song Title : Love Really Hurts Without You
+PreviewLink : https://p.scdn.co/mp3-preview/7ec028d8e8ccfbdeeb83d7fd55fcc1f9ccc22e65?cid=3ff5b74bedf3445891d6cf72c73a3e39
+###########################################################################################################Album Name : L.I.F.E. (Love Is For Ever)
+
+Song # :6
+Artist : Cher
+Song Title : Love And Understanding
+PreviewLink : null
+Album Name : Love Hurts
+###########################################################################################################
+Song # :7
+Artist : Incubus
+Song Title : Love Hurts
+PreviewLink : https://p.scdn.co/mp3-preview/cbd47f0bc15d5adbe1cd7dc69b85c7932bbc1458?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Essential Incubus
+###########################################################################################################
+Song # :8
+Artist : Joan Jett
+Song Title : Love Hurts
+PreviewLink : https://p.scdn.co/mp3-preview/3ff56d973889adb0defec4d8ed1c79e6c1956bda?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : The Hit List
+###########################################################################################################
+Song # :9
+Artist : Tamar Braxton
+Song Title : Where It Hurts
+PreviewLink : https://p.scdn.co/mp3-preview/67b700f93a30cbe49e4eb86f2f01521f157029e9?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : Love and War
+###########################################################################################################
+Song # :10
+Artist : Nashville Cast
+Song Title : Love Until It Hurts
+PreviewLink : null
+Album Name : The Music Of Nashville Original Soundtrack Season 5 Volume 3
+###########################################################################################################
+Song # :11
+Artist : Papa Roach
+Song Title : Love Me Till It Hurts
+PreviewLink : https://p.scdn.co/mp3-preview/e451a9e4c751d72443d9a9c0e3354da67018e838?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : F.E.A.R.
+###########################################################################################################
+Song # :12
+Artist : Gram Parsons
+Song Title : Love Hurts - Remastered Version
+PreviewLink : https://p.scdn.co/mp3-preview/4b11df4af8b033a6b56b107baa785a09ef1cd40a?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : Grievous Angel
+###########################################################################################################
+Song # :13
+Artist : Nazareth
+Song Title : Love Hurts
+PreviewLink : https://p.scdn.co/mp3-preview/6330ce44142506ec6a63d338cc6da6029711c09c?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : Hair Of The Dog (Live)
+###########################################################################################################
+Song # :14
+Artist : Pional
+Song Title : Casualty
+PreviewLink : https://p.scdn.co/mp3-preview/be637b3e522a3e65c1e6a551649138de09c1cfe7?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : When Love Hurts
+###########################################################################################################
+Song # :15
+Artist : Roy Orbison
+Song Title : Love Hurts
+PreviewLink : https://p.scdn.co/mp3-preview/f72f14cd38962418a942b79d74b36c95447f5e1a?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : Crying
+###########################################################################################################
+Song # :16
+Artist : Alx Veliz
+Song Title : Duele (Hurts Me To Love You)
+PreviewLink : null
+Album Name : Duele (Hurts Me To Love You)
+###########################################################################################################
+Song # :17
+Artist : Rebekah Del Rio
+Song Title : No Stars
+PreviewLink : https://p.scdn.co/mp3-preview/786c18ccf1590a452dc086e4ac0bc77456654536?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : Love Hurts Love Heals
+###########################################################################################################
+Song # :18
+Artist : Pional
+Song Title : Of My Mind
+PreviewLink : https://p.scdn.co/mp3-preview/6562aff6402169c83df600c291de465c8c42cc53?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : When Love Hurts
+###########################################################################################################
+Song # :19
+Artist : Cher
+Song Title : Love Hurts
+PreviewLink : null
+Album Name : Love Hurts
+###########################################################################################################
+Song # :20
+Artist : LSG
+Song Title : Love Hurts
+PreviewLink : https://p.scdn.co/mp3-preview/8b0893ebcbc6ed3f0564fb7ba0df9b19ded22ea9?cid=3ff5b74bedf3445891d6cf72c73a3e39
+Album Name : Levert.Sweat.Gill
+###########################################################################################################
+node liri.js movie-this the godfather
+
+Movie Title : The Godfather
+Release Year : 1972
+IMDB Rating : 9.2/10
+Rotten Tomatoes Rating : 99%
+Country : USA
+Language : English, Italian, Latin
+Plot : The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+Actors : Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+###########################################################################################################
+
+node liri.js do-what-it-says 
+Movie Title : The Exorcist
+Release Year : 1973
+IMDB Rating : 8.0/10
+Rotten Tomatoes Rating : 86%
+Country : USA
+Language : English, Latin, Greek, French, German, Arabic, Kurdish
+Plot : When a girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.
+Actors : Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn
+###########################################################################################################
+node liri.js my-tweets
+
+Tweet # 1 : RT @FoxNews: TONIGHT on "Justice," @JudgeJeanine talks to special guests @EricTrump and @LaraLeaTrump - Tune in at 9p ET on Fox News Channe…
+Created At : Sat Oct 14 23:22:04 +0000 2017
+##############################################################################################################
+Tweet # 2 : RT @EricTrump: .@LaraLeaTrump and I look forward to being on @JudgeJeanine tonight at 9pm! @FoxNews #MakeAmericaGreatAgain 🇺🇸🇺🇸🇺🇸 https://t…
+Created At : Sat Oct 14 21:29:38 +0000 2017
+##############################################################################################################
+Tweet # 3 : RT @mike_pence: We are heading to Virginia. Looking forward to supporting my friend @EdWGillespie. He will make a great Governor for the Co…
+Created At : Sat Oct 14 21:28:34 +0000 2017
+##############################################################################################################
+Tweet # 4 : The Democrats in the Southwest part of Virginia have been abandoned by their Party. Republican Ed Gillespie will never let you down!
+##############################################################################################################Created At : Sat Oct 14 21:27:22 +0000 2017
+
+Tweet # 5 : Very proud of my Executive Order which will allow greatly expanded access and far lower costs for HealthCare. Millions of people benefit!
+Created At : Sat Oct 14 11:27:00 +0000 2017
+##############################################################################################################
+Tweet # 6 : Health Insurance stocks, which have gone through the roof during the ObamaCare years, plunged yesterday after I ended their Dems windfall!
+Created At : Sat Oct 14 11:18:49 +0000 2017
+##############################################################################################################
+Tweet # 7 : RT @realDonaldTrump: "Consumer confidence soars to highest level since 2004"
+📈https://t.co/RvxCPAFI2A https://t.co/U8MS9K45fX
+Created At : Sat Oct 14 11:12:16 +0000 2017
+##############################################################################################################
+Tweet # 8 : RT @RightlyNews: @realDonaldTrump @LouDobbs Trust in the media is at the lowest level in all of U.S. history. The American people see throu…
+Created At : Sat Oct 14 11:08:32 +0000 2017
+##############################################################################################################
+Tweet # 9 : RT @RightlyNews: @realDonaldTrump @LouDobbs It is NOT a coincidence that the economy boomed immediately after the 2016 election.
+Created At : Sat Oct 14 11:08:00 +0000 2017
+##############################################################################################################
+Tweet # 10 : Such a wonderful statement from the great @LouDobbs. "We take up what may be the most accomplished presidency in modern American history."
+Created At : Sat Oct 14 01:31:20 +0000 2017
+##############################################################################################################
+Tweet # 11 : ObamaCare is causing such grief and tragedy for so many. It is being dismantled but in the meantime, premiums &amp; deductibles are way up!
+Created At : Sat Oct 14 01:17:54 +0000 2017
+
+##############################################################################################################Tweet # 12 : Money pouring into Insurance Companies profits, under the guise of ObamaCare, is over. They have made a fortune.
+Dems must get smart &amp; deal!
+Created At : Sat Oct 14 01:10:55 +0000 2017
+##############################################################################################################
+Tweet # 13 : Many people talking, with much agreement, on my Iran speech today. Participants in the deal are making lots of money on trade with Iran!
+Created At : Sat Oct 14 01:02:48 +0000 2017
+##############################################################################################################
+Tweet # 14 : Starting to develop a much better relationship with Pakistan and its leaders. I want to thank them for their cooperation on many fronts.
+Created At : Sat Oct 14 00:53:59 +0000 2017
+##############################################################################################################
+Tweet # 15 : #WeeklyAddress🇺🇸 https://t.co/riqEiBNwk2
+Created At : Fri Oct 13 22:01:57 +0000 2017
+##############################################################################################################
+Tweet # 16 : Today, I announced our strategy to confront the Iranian regime’s hostile actions and to ensure that they never acqu… https://t.co/nKOKERavGW
+Created At : Fri Oct 13 18:09:00 +0000 2017
+##############################################################################################################
+Tweet # 17 : "Consumer confidence soars to highest level since 2004"
+📈https://t.co/RvxCPAFI2A https://t.co/U8MS9K45fX
+Created At : Fri Oct 13 17:41:36 +0000 2017
+##############################################################################################################
+Tweet # 18 : In America, we don't worship government - we worship God. 
+#ValuesVotersSummit https://t.co/YQ3iDlWylK
+Created At : Fri Oct 13 17:07:15 +0000 2017
+##############################################################################################################
+Tweet # 19 : I have no greater privilege than to serve as your Commander-in-Chief. HAPPY BIRTHDAY to the incredible men and wome… https://t.co/cxkez6oPXx
+Created At : Fri Oct 13 16:30:28 +0000 2017
+##############################################################################################################
+Tweet # 20 : The wonderful people of Puerto Rico, with their unmatched spirit, know how bad things were before the H's. I will always be with them!
+Created At : Fri Oct 13 12:01:02 +0000 2017
+##############################################################################################################

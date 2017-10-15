@@ -1,5 +1,6 @@
 //console.log('this is loaded');
 
+//below are api keys for twitter, spotify and OMDB
 var twitterKeys = {
   consumer_key: 'WLzdGtxFBdAgidx31UlzZu2ZI',
   consumer_secret: 'RaNWVCzyfOltzut1SqlE79T3s6otZflLnvQvujWH7qFFlbM4Iw',
@@ -16,4 +17,5 @@ var omdbKey = {
   api_key : "40e9cece"
 }
 
+//exporting this file to liri.js
 module.exports = [twitterKeys, spotifyKeys,omdbKey];
