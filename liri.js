@@ -16,7 +16,7 @@ function myTweets() {
   access_token_secret: keys[0].access_token_secret
   });
 
-  client.get('search/tweets', {q: '@realDonaldTrump'}, function(error, tweets, response) {
+  client.get('search/tweets', {q: '@realDonaldTrump', count : 20}, function(error, tweets, response) {
    
     if (error || response.statusCode !== 200) {
       return console.log(error);       

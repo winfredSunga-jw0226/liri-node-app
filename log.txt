@@ -55,3 +55,72 @@ Language : English, Latin, Greek, French, German, Arabic, Kurdish
 Plot : When a girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.
 Actors : Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn
 ###########################################################################################################
+node liri.js my-tweets
+
+Tweet # 1 : RT @SusanStormXO: @realDonaldTrump @LouDobbs For every Knee
+You slap a Hero
+
+We the people Are peeved 
+
+You want to help Oppression / LAWS…
+Created At : Sun Oct 15 00:53:26 +0000 2017
+##############################################################################################################
+Tweet # 2 : @JacobAWohl @realDonaldTrump @BarackObama Gave up his billion lol now changing tax laws to help himself
+Created At : Sun Oct 15 00:53:26 +0000 2017
+##############################################################################################################
+Tweet # 3 : RT @TheRynheart: @mike_pence @realDonaldTrump Pence to billionaires: Use your “stature” to make employees support a tax hike on themselves…
+Created At : Sun Oct 15 00:53:26 +0000 2017
+##############################################################################################################
+Tweet # 4 : @ValerieMackey @realDonaldTrump No. Barry forced Obummercare in the taxpayers. Get the story straight!!!!!!!
+Created At : Sun Oct 15 00:53:26 +0000 2017
+##############################################################################################################
+Tweet # 5 : RT @netanyahu: I congratulate @realDonaldTrump for his courageous decision. He boldly confronted Iran's terrorist regime. https://t.co/1KaH…
+Created At : Sun Oct 15 00:53:25 +0000 2017
+##############################################################################################################
+Tweet # 6 : RT @tedlieu: Hey @EdWGillespie, you don't want people to know that @realDonaldTrump endorsed you. So I'm trying to let folks know. Cheers!…
+Created At : Sun Oct 15 00:53:25 +0000 2017
+##############################################################################################################
+Tweet # 7 : RT @Montel_Williams: How the hell can you call yourself a “values voter” much less a “Christian” having voted @realDonaldTrump - it’s hypoc…
+Created At : Sun Oct 15 00:53:25 +0000 2017
+##############################################################################################################
+Tweet # 8 : RT @DearAuntCrabby: Imma just drop this right here @realDonaldTrump hoping you see this gem first thing Saturday morning you fucking asswip…
+Created At : Sun Oct 15 00:53:25 +0000 2017
+##############################################################################################################
+Tweet # 9 : RT @jeff_lefever: .@realDonaldTrump .@VP  WASH the ELD mandate from DOT regs #ELDorMe https://t.co/N5VI03XCJ6
+Created At : Sun Oct 15 00:53:25 +0000 2017
+##############################################################################################################
+Tweet # 10 : @realDonaldTrump #NotFitforPresident Despicable act to deprive working people from access to health insurance while… https://t.co/jdU95adVYa
+Created At : Sun Oct 15 00:53:25 +0000 2017
+##############################################################################################################
+Tweet # 11 : RT @realDonaldTrump: Very proud of my Executive Order which will allow greatly expanded access and far lower costs for HealthCare. Millions…
+Created At : Sun Oct 15 00:53:25 +0000 2017
+##############################################################################################################
+Tweet # 12 : RT @American1765: @realDonaldTrump @LouDobbs #SaturdayMorning
+Who hasn’t noticed 0bama’s coup d’état? It’s the most obvious fake bs I’ve ev…
+Created At : Sun Oct 15 00:53:25 +0000 2017
+##############################################################################################################
+Tweet # 13 : RT @buttadlyte: @DavidBegnaud @realDonaldTrump David you are doing some really great work out in PR. Keeping us all informed. 🙏🙏💙💙 #PrayFor…
+Created At : Sun Oct 15 00:53:25 +0000 2017
+##############################################################################################################
+Tweet # 14 : RT @IronStache: @CNNPolitics .@realDonaldTrump gave a speech discussing religion?
+I somehow pictured him prostrated before a golden calf -…
+Created At : Sun Oct 15 00:53:24 +0000 2017
+##############################################################################################################
+Tweet # 15 : @MichaelSkolnik @TopherSpiro @realDonaldTrump latinos: never forget. and next time a family member tells you they a… https://t.co/kOs36cnieG
+Created At : Sun Oct 15 00:53:24 +0000 2017
+##############################################################################################################
+Tweet # 16 : @KimsRandomLife @Trump_Regrets @realDonaldTrump You thought he was only going fuck over everyone else and that was… https://t.co/zp7hJujLRZ
+Created At : Sun Oct 15 00:53:24 +0000 2017
+##############################################################################################################
+Tweet # 17 : RT @RandPaul: Proud to have worked on this with @realDonaldTrump - this plan will help so many. We will make the consumer king, not insuran…
+Created At : Sun Oct 15 00:53:24 +0000 2017
+##############################################################################################################
+Tweet # 18 : @realDonaldTrump You only worship yourself. You are a pathetic cringing little milksop who history will deem the worst president in history.
+Created At : Sun Oct 15 00:53:24 +0000 2017
+##############################################################################################################
+Tweet # 19 : RT @BetteMidler: Observing @realDonaldTrump's all consuming jealousy of Obama must be fascinating for mental health pros, but it's killing…
+Created At : Sun Oct 15 00:53:24 +0000 2017
+##############################################################################################################
+Tweet # 20 : RT @DemResistance: @realDonaldTrump has not spoken their names, nor did he travel to meet them at Dover. #Disrespect #Honor #Valor https://…
+Created At : Sun Oct 15 00:53:23 +0000 2017
+##############################################################################################################
