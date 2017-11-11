@@ -38,10 +38,8 @@ LIRI has 3 main functions.
     * LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands
       * If the text inside random.txt says `spotify-this-song,"I Want it That Way"` then it will display the information about the song in the terminal/bash window as per above
       * Feel free to change the text in that document to test out the other commands
-     
-
-
-
+### Demo
+Demo section in progress...
 
 ### Tech Details
 * Node
