@@ -32,7 +32,7 @@ LIRI has 3 main functions.
        * Language of the movie.
        * Plot of the movie.
        * Actors in the movie.
-     ```  
+      ``` 
     * If the user doesn't type a movie in, the program will output data for the movie 'Mr.Nobody.'
   * `node liri.js do-what-it-says`
     * LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands
