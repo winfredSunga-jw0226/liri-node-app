@@ -46,8 +46,7 @@ LIRI has 3 main functions.
 ### Tech Details
 * Node
 * Terminal / Command Line
-
-  #### *NPM Packages & APIs Used*
+* NPM Packages & APIs 
   * [request](https://www.npmjs.com/package/request)
   * [twitter](https://www.npmjs.com/package/twitter)
   * [node-spotify-api](https://www.npmjs.com/package/node-spotify-api)
